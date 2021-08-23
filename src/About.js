@@ -15,7 +15,7 @@ export default function About() {
 
 <div class="">
     <h1>About</h1>
-    <p>Completed  BE In Electronics & Telecommunication  & Worked As A Web Designer </p>
+  
    
   </div>
 
